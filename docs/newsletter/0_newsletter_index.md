@@ -7,10 +7,10 @@ If you want to follow the meaningful changes of this site, you can either:
 
 You can choose how often you want to see the site updates:
 
-* [Daily](https://snuee.github.io/medibox/daily.xml)
-* [Weekly](https://snuee.github.io/medibox/weekly.xml)
-* [Monthly](https://snuee.github.io/medibox/monthly.xml)
-* [Yearly](https://snuee.github.io/medibox/yearly.xml)
+* [Daily](https://snuee.github.io/daily.xml)
+* [Weekly](https://snuee.github.io/weekly.xml)
+* [Monthly](https://snuee.github.io/monthly.xml)
+* [Yearly](https://snuee.github.io/yearly.xml)
 
 # Newsletter section
 

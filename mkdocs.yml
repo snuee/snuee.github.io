@@ -1,12 +1,11 @@
 ---
-site_name: Medibox
-site_description: My personal digital garden
-site_author: Medibox
-site_url: https://snuee.github.io/medibox
+site_name: AIBIT
+site_description: AIBIT
+site_author: AIBIT
+site_url: https://snuee.github.io/
 nav:
   - Introduction:
     - index.md
-
 
 plugins:
   - search
@@ -80,10 +79,6 @@ theme:
         name: Switch to light mode
 
 extra_css: [stylesheets/extra.css, stylesheets/links.css]
-extra_javascript:
-  - path: assets/js/mathjaxhelper.js
-    defer: true
-  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML
 
 extra:
   social:
