@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://snuee.github.io/medibox/</loc>
+         <lastmod>2023-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://snuee.github.io/medibox/privacy/</loc>
          <lastmod>2023-08-27</lastmod>
          <changefreq>daily</changefreq>
