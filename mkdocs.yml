@@ -6,6 +6,10 @@ site_url: https://snuee.github.io/
 nav:
   - Introduction:
     - index.md
+  - Medibox:
+    - medibox.md
+    - medibox/terms.md
+    - medibox/privacy.md
 
 plugins:
   - search
