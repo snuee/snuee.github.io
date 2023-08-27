@@ -6,5 +6,10 @@ author: urunimi
 
 ## 약상자
 
-- [이용약관](/medibox/terms)
-- [개인정보처리방침](/medibox/privacy)
+### English
+- [Terms of Service](/medibox/terms)
+- [Privacy Policy](/medibox/privacy)
+
+### 한국어
+- [이용약관](/medibox/ko/terms)
+- [개인정보처리방침](/medibox/ko/privacy)

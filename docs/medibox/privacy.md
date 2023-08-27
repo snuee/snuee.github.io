@@ -1,53 +1,58 @@
 ---
-title: 약상자 개인정보 처리 방침
+title: Medibox Privacy Policy
 date: 20230827
 author: urunimi
 ---
 
-# **약상자 개인정보 처리 방침**
+**Last Updated: April 28, 2023**
 
-**마지막 수정: 2023년 4월 28일**
+## **1. Overview**
 
-### **1. 개요**
+This Privacy Policy explains how Medibox (hereinafter "we," "our," or "the app") collects, uses, and shares information from users (hereinafter "you," "user"). Please read this policy carefully and understand it. By using this app, you agree to this Privacy Policy.
 
-본 개인정보 처리 방침은 "약상자" 앱(이하 "우리", "우리의", "앱")에서 사용자(이하 "당신", "사용자")의 정보를 수집, 사용, 공유하는 방법에 대해 설명합니다. 이 방침을 주의 깊게 읽고 이해하시기 바랍니다. 본 앱을 사용함으로써 본 개인정보 처리 방침에 동의하게 됩니다.
+## **2. Information Collection**
 
-### **2. 정보 수집**
+### **2.1 Automatically Collected Information**
 
-**2.1 자동 수집 정보**
+- **Device Information**: We may collect information about your device, including the operating system and device model.
+- **Usage Data**: This includes data about how you interact with our app, such as the features you use and the time spent on the app.
+- **Log Information**: This could include system activity, internal system logs, and other logs used for analytics, troubleshooting, and performance monitoring.
 
-- 기기 정보: 운영 체제, 기기 모델 등
-- 사용 데이터: 앱 내 활동, 접근 시간 등
-- 로그 정보: 시스템 활동, 하드웨어 설정 등
+### **2.2 Medicine Information**
 
-**2.2 수동 수집 정보**
+- We may collect information about the medicines you scan or input into the app.
 
-- 계정 정보: 이메일, 이름, 프로필 사진 등
-- 약 정보: 스캔한 약의 정보 등
+## **3. Use of Information**
 
-### 3. 정보 사용
+The collected information will be used for the following purposes:
 
-수집한 정보는 다음과 같은 목적으로 사용됩니다:
+- Providing and maintaining the services offered by Medibox
+- Enhancing and optimizing user experience
+- Statistical analysis to improve the app
 
-- 서비스 제공
-- 사용자 경험 개선
-- 통계 및 분석
+## **4. Information Sharing**
 
-### 4. 정보 공유
+Your personal information may be shared in the following cases:
 
-당신의 개인정보는 다음과 같은 경우에 공유될 수 있습니다:
+- With service providers and business partners
+- When required by law, including legal processes and enforceable governmental requests
+- In the event of a company sale, asset transfer, merger, restructuring, or other changes in company control
 
-- 법적 의무가 있는 경우
-- 회사가 매각되거나 병합하는 경우
+## **5. Security**
 
-### 5. 보안
+We are committed to ensuring the security of your information. While no online service can guarantee absolute security, we implement robust security measures to protect against unauthorized access.
 
-당신의 정보의 안전은 매우 중요하며, 최선을 다해 정보를 보호합니다. 그러나 인터넷을 통한 어떠한 전송도 100% 안전하지 않다는 점을 이해해 주시기 바랍니다.
+## **6. Changes**
 
-## 6. 변경 사항
+This Privacy Policy may be updated periodically. When updated, the "Last Updated" date at the top of this Privacy Policy will be revised. We recommend you review this policy frequently to stay informed about how we protect your information.
 
-본 개인정보 처리 방침은 변경될 수 있으며, 변경될 경우 앱 내 또는 웹사이트에 공지하겠습니다.
+## **7. Contact**
 
-## 7. 문의
+If you have any questions regarding this Privacy Policy, please contact us at **`info@medibox.com`**.
 
-문의 사항이 있을 경우 `medibox@hovans.com`으로 문의 주시기 바랍니다.
+---
+
+**Note: This content is a sample Privacy Policy and should be reviewed by a legal expert before being applied.**
+
+> This Privacy Policy is drafted based on general cases and may require modifications to accommodate any specific requirements or legal changes. Make sure to tailor it to fit the specific characteristics and requirements of your app.
+>

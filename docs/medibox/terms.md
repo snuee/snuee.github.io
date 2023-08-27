@@ -1,69 +1,68 @@
 ---
-title: 약상자 이용약관
+title: Medibox Terms of Service
 date: 20230827
 author: urunimi
 ---
 
-# '약상자' 이용약관
+## **Article 1 (Purpose)**
 
-### 제 1 조 (목적)
-이 약관은 "약상자" 애플리케이션(이하 "서비스")의 이용조건 및 절차, 이용자와 "약상자" 사이의 권리, 의무 및 책임 사항, 기타 필요한 사항을 정함을 목적으로 합니다.
+The purpose of these Terms of Service is to define the terms and conditions for the use of the "Medibox" application (hereinafter "Service"), as well as the rights, obligations, and responsibilities between users and "Medibox," and other necessary details.
 
-### 제 2 조 (용어의 정의)
+## **Article 2 (Definition of Terms)**
 
-1. "사용자"란 "약상자" 서비스에 접속하여 이 약관에 따라 "약상자"가 제공하는 서비스를 받는 회원 및 비회원을 말합니다.
-1. "회원"이란 "약상자"에 개인정보를 제공하여 회원등록을 한 자로서, 계속적으로 "약상자"가 제공하는 서비스를 이용할 수 있는 자를 말합니다.
-1. "비회원"이란 회원에 가입하지 않고 "약상자"가 제공하는 서비스를 이용하는 자를 말합니다.
+1. "User" refers to members and non-members who access and receive the Service provided by "Medibox" according to these Terms of Service.
+2. "Member" refers to an individual who has provided personal information to "Medibox" and registered as a member, who can continuously use the Service provided by "Medibox."
+3. "Non-Member" refers to someone who uses the Service provided by "Medibox" without registering as a member.
 
-### 제 3 조 (이용약관의 효력 및 변경)
+## **Article 3 (Effectiveness and Amendments of the Terms of Service)**
 
-1. 이 약관은 "약상자" 서비스를 이용하고자 하는 모든 이용자에게 그 효력을 발생합니다.
-1. "약상자"는 이 약관의 내용을 이용자가 쉽게 알 수 있도록 서비스 초기 화면 또는 연결화면을 통해 게시합니다.
-1. "약상자"는 합리적인 사유가 발생할 경우에는 이 약관을 변경할 수 있으며, 변경된 약관은 제 2 항과 같은 방법으로 게시함으로써 효력을 발생합니다.
+1. These Terms of Service shall be effective for all users who intend to use the Service.
+2. "Medibox" shall display these Terms of Service on the initial screen of the Service or a linked screen so that users can easily understand them.
+3. "Medibox" reserves the right to amend these Terms of Service for valid reasons, and the amended Terms will become effective when displayed according to clause 2.
 
-### 제 4 조 (서비스의 제공 및 변경)
+## **Article 4 (Provision and Change of Service)**
 
-1. "약상자"는 다음과 같은 서비스를 제공합니다.
-  - 익명으로 약 사진 전송 및 처리 서비스
-  - AI를 활용하여 약의 갯수, 효능 및 관련 정보 제공 서비스
-  - 기타 "약상자"가 추가로 개발하거나 다른 회사와의 제휴를 통해 회원에게 제공하는 일체의 서비스
-2. "약상자"는 서비스를 일정 범위로 분할하여 각 범위별로 이용가능시간을 별도로 지정할 수 있습니다.
+1. "Medibox" provides the following services:
+- Anonymous transmission and processing of medicine photos
+- Utilizing AI to provide the number of medicines, their efficacy, and related information
+- Any and all additional services that "Medibox" may develop or provide to members through alliances with other companies.
+1. "Medibox" may set separate operating hours for each segment of its services.
 
-### 제 5 조 (사용자의 사진 및 개인정보 처리)
+## **Article 5 (User's Photo and Personal Information Processing)**
 
-1. "약상자"는 사용자가 전송한 약 사진을 익명으로 처리하기 위해 최선의 노력을 다합니다. 사진 처리 시 사용자의 신원을 추적할 수 있는 정보는 제거되며, 외부에 노출되지 않도록 관리됩니다.
-2. "약상자"는 사용자의 개인정보를 보호하기 위해 개인정보보호법, 정보통신망 이용촉진 및 정보보호 등에 관한 법률 등 관련 법령을 준수합니다. 사용자의 개인정보는 당사의 개인정보처리방침에 따라 안전하게 처리되며, 사용자의 동의 없이 제 3자에게 제공되지 않습니다.
+1. "Medibox" exerts its best effort to process medicine photos sent by the user anonymously. Information that could trace the identity of the user is removed, and these photos are not disclosed externally.
+2. "Medibox" adheres to relevant laws and regulations, such as the Personal Information Protection Act and Act on the Promotion of Information and Communications Network Utilization and Information Protection, to protect the user's personal information. User's personal information is securely processed according to our Privacy Policy and is not provided to third parties without the user's consent.
 
-### 제 6 조 (서비스 이용의 제한 및 정지)
+## **Article 6 (Restriction and Termination of Service Use)**
 
-1. "약상자"는 사용자가 이 약관의 내용을 준수하지 않거나, 서비스의 정상적인 운영을 방해하는 경우 서비스 이용을 제한하거나 정지할 수 있습니다.
-2. "약상자"는 다음 각 호의 경우에는 사용자의 서비스 이용을 제한하거나 정지할 수 있습니다.
-  - 이용자가 이 약관을 위반한 경우
-  - "약상자" 서비스의 운영을 고의로 방해한 경우
-  - 공공질서 및 미풍양속에 반하는 행위를 한 경우
-  - 기타 관계 법령을 위반한 경우
+1. "Medibox" may restrict or terminate the Service for users who violate these Terms of Service or interfere with the proper operation of the Service.
+2. "Medibox" may restrict or terminate the user's access to the Service in the following cases:
+- Violation of these Terms of Service
+- Deliberate disruption of the operation of the Service
+- Conduct that goes against public order and morals
+- Violation of other relevant laws and regulations
 
-### 제 7 조 (면책 및 손해배상)
+## **Article 7 (Disclaimer and Indemnification)**
 
-1. "약상자"는 천재지변, 불가항력적 사유, 서비스 개선을 위한 정기점검 등의 경우에는 서비스의 전부 또는 일부를 제한하거나 중지할 수 있습니다. 이 경우 "약상자"는 사용자에게 사전에 공지합니다. "약상자"는 이러한 사유로 인해 사용자에게 발생한 손해에 대해 배상하지 않습니다.
-1. "약상자"는 사용자가 서비스를 이용함에 있어 발생하는 손해에 대해 면책됩니다. 단, "약상자"의 고의 또는 중대한 과실로 인한 손해의 경우를 제외합니다.
-1. 사용자는 이 약관 및 관계 법령을 준수하며, 서비스를 이용함에 있어 타인의 권리를 침해하지 않아야 합니다. 만약 사용자가 타인의 권리를 침해하는 행위를 한 경우, 사용자는 그에 대한 모든 법적 책임을 진다.
+1. "Medibox" may limit or suspend all or part of the Service due to acts of God, force majeure, or regular maintenance aimed at Service improvement. In such cases, "Medibox" will notify users in advance and shall not be liable for any damage incurred by the user.
+2. "Medibox" disclaims liability for any damages incurred by users while using the Service, except in cases of intentional or severe negligence on the part of "Medibox."
+3. Users must comply with these Terms of Service and relevant laws and regulations, and should not infringe upon the rights of others. If users infringe upon the rights of others, they shall bear all legal responsibilities.
 
-### 제 8 조 (분쟁의 해결)
+## **Article 8 (Dispute Resolution)**
 
-1. "약상자"와 사용자 사이에 발생한 분쟁은 협의를 통해 원만하게 해결하여야 합니다.
-1. 제 1 항의 협의에도 불구하고 분쟁이 해결되지 않은 경우, "약상자"와 사용자는 관련 법령에서 정한 절차에 따라 분쟁을 해결할 수 있습니다.
+1. Disputes arising between "Medibox" and users shall be resolved amicably through consultation.
+2. Despite consultations as per clause 1, if a dispute remains unresolved, it will be resolved according to the procedure defined by relevant laws and regulations.
 
-### 제 9 조 (권리의 귀속)
+## **Article 9 (Ownership of Rights)**
 
-1. "약상자" 서비스에 대한 저작권 및 지적재산권은 "약상자"에 귀속됩니다.
-1. 사용자는 "약상자"에서 제공하는 서비스를 이용함에 있어서 얻은 정보를 "약상자"의 사전 승낙 없이 복제, 송신, 출판, 배포, 방송 기타 방법에 의하여 영리목적으로 이용하거나 제 3자에게 이용하게 하여서는 안 됩니다.
+1. Copyright and intellectual property rights regarding the Service belong to "Medibox."
+2. Users may not use any information obtained from the Service for commercial purposes or allow a third party to use such information without the prior consent of "Medibox."
 
-### 제 10 조 (약관 외 사항)
+## **Article 10 (Matters Not Stipulated)**
 
-1. 이 약관에 명시되지 않은 사항은 관련 법령 또는 "약상자"의 개별 약관 및 정책에 따릅니다.
-1. 사용자는 언제든지 "약상자"의 서비스 초기 화면 또는 연결화면을 통해 이 약관의 내용을 확인할 수 있습니다.
+1. Matters not specified in these Terms of Service shall be governed by relevant laws and regulations or separate terms and policies provided by "Medibox."
+2. Users may at any time verify the contents of these Terms of Service through the initial screen of the Service or a connected screen.
 
-### 부 칙
+## **Addendum**
 
-이 약관은 2023년 9월 1일부터 시행됩니다.
+These Terms of Service shall take effect from September 1, 2023.

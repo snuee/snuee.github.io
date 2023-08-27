@@ -1,7 +1,7 @@
 ---
-site_name: AIBIT
-site_description: AIBIT
-site_author: AIBIT
+site_name: SNUEE
+site_description: SNUEE
+site_author: SNUEE
 site_url: https://snuee.github.io/
 nav:
   - Introduction:
@@ -10,6 +10,8 @@ nav:
     - medibox.md
     - medibox/terms.md
     - medibox/privacy.md
+    - medibox/ko/terms.md
+    - medibox/ko/privacy.md
 
 plugins:
   - search
