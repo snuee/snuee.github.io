@@ -48,11 +48,4 @@ This Privacy Policy may be updated periodically. When updated, the "Last Updated
 
 ## **7. Contact**
 
-If you have any questions regarding this Privacy Policy, please contact us at **`info@medibox.com`**.
-
----
-
-**Note: This content is a sample Privacy Policy and should be reviewed by a legal expert before being applied.**
-
-> This Privacy Policy is drafted based on general cases and may require modifications to accommodate any specific requirements or legal changes. Make sure to tailor it to fit the specific characteristics and requirements of your app.
->
+If you have any questions regarding this Privacy Policy, please contact us at **`medibox@hovans.com`**.
