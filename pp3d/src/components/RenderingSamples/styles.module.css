@@ -3,7 +3,7 @@
 }
 
 .videoContainer {
-  margin-bottom: 2rem;
+  border-radius: 4px;
 }
 
 .threeJsRender {
@@ -12,7 +12,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid #ddd;
   border-radius: 4px;
 }
 
