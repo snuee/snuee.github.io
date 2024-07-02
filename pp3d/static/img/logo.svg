@@ -1,0 +1,20 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Top view camera body -->
+  <rect x="20" y="40" width="120" height="90" rx="10" ry="10" fill="#2196F3" stroke="#000" stroke-width="2" />
+
+  <!-- Lens -->
+  <circle cx="80" cy="90" r="30" fill="#999" stroke="#444" stroke-width="2" />
+  <circle cx="80" cy="90" r="15" fill="#EEE" stroke="#444" stroke-width="2" />
+  
+
+  <!-- Camera flash -->
+  <rect x="110" y="40" width="20" height="10" fill="#FFF" stroke="#000" stroke-width="2" />
+  
+  <!-- Shutter button -->
+  <circle cx="40" cy="40" r="10" fill="#C70039" stroke="#000" stroke-width="2" />
+  
+  <!-- Viewfinder -->
+  <rect x="70" y="40" width="20" height="10" fill="#000000" />
+  
+</svg>

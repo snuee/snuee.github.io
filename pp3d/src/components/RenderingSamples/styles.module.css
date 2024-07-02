@@ -1,0 +1,23 @@
+.features {
+  padding: 4rem 0;
+}
+
+.videoContainer {
+  border-radius: 4px;
+}
+
+.threeJsRender {
+  height: 530px;
+  background-color: #f0f0f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4rem 0;
+}
