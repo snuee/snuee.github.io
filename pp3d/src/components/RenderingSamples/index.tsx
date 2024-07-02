@@ -1,49 +1,74 @@
+import React, { useRef } from "react";
 import clsx from "clsx";
+import { Canvas } from "@react-three/fiber";
+import { OrbitControls, useGLTF, useAnimations } from "@react-three/drei";
 import styles from "./styles.module.css";
 
 type RenderingItem = {
   youtubeURL: string;
-  gltfURL: string;
+  glbURL: string;
   title: string;
 };
 
 const RenderingList: RenderingItem[] = [
   {
-    youtubeURL: "https://www.youtube.com/embed/rZPtUUlVLRk", // https://youtube.com/embed/4NOQn_vDH7M
-    gltfURL: "example.gltf",
+    youtubeURL: "https://www.youtube.com/embed/rZPtUUlVLRk",
+    glbURL: "/glb/1.glb",
     title: "테니스",
   },
   {
-    youtubeURL: "https://youtube.com/embed/ysE834gGPJk", //https://www.youtube.com/embed/kIL5YfGKVXY
-    gltfURL: "example.gltf",
+    youtubeURL: "https://youtube.com/embed/ysE834gGPJk",
+    glbURL: "/glb/2.glb",
     title: "골프",
   },
   {
     youtubeURL: "https://youtube.com/embed/tZAbY33UOvE",
-    gltfURL: "example.gltf",
-    title: "웨이트",
+    glbURL: "/glb/3.glb",
+    title: "웨이트 트레이닝",
   },
 ];
 
-function RenderingSample({ youtubeURL, gltfURL, title }: RenderingItem) {
+function GLBModel({ url }: { url: string }) {
+  const group = useRef();
+  const { scene, animations } = useGLTF(url);
+  const { actions } = useAnimations(animations, group);
+
+  React.useEffect(() => {
+    if (actions) {
+      actions[Object.keys(actions)[0]].play();
+    }
+  }, [actions]);
+
+  return <primitive ref={group} object={scene} />;
+}
+
+function RenderingSample({ youtubeURL, glbURL, title }: RenderingItem) {
   return (
-    <div className="row">
-      <div className={clsx("col", styles.videoContainer)}>
-        <div className="videoWrapper">
+    <div className="column">
+      <div className={clsx("row", styles.title)}>
+        <h3>{title}</h3>
+      </div>
+      <div className="row">
+        <div className="col col--2" />
+        <div className={clsx("col col--4", styles.videoContainer)}>
           <iframe
-            width="480"
-            height="640"
+            width="350"
+            height="530"
             src={youtubeURL}
             title="YouTube video player"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           />
         </div>
+        <div className={clsx("col col--4", styles.threeJsRender)}>
+          <Canvas camera={{ position: [0, 0, 5] }}>
+            <ambientLight />
+            <pointLight position={[10, 10, 10]} />
+            <GLBModel url={glbURL} />
+            <OrbitControls />
+          </Canvas>
+        </div>
       </div>
-      <div className={clsx("col", "threeJsRender")}>
-        
-      </div>
-      <div className={styles.threeJsPlaceholder}>{title}</div>
     </div>
   );
 }

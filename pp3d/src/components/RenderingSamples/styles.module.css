@@ -1,26 +1,24 @@
-.heroBanner {
-    padding: 4rem 0;
-  }
-  
-  .videoContainer {
-    margin-bottom: 2rem;
-  }
-  
-  .videoWrapper {
-    margin-bottom: 1rem;
-  }
-  
-  .threeJsRender {
-    height: 200px;
-    background-color: #f0f0f0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-  }
-  
-  .threeJsPlaceholder {
-    font-size: 1.2rem;
-    color: #666;
-  }
+.features {
+  padding: 4rem 0;
+}
+
+.videoContainer {
+  margin-bottom: 2rem;
+}
+
+.threeJsRender {
+  height: 530px;
+  background-color: #f0f0f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4rem 0;
+}
