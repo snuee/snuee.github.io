@@ -3,21 +3,23 @@
 }
 
 .videoContainer {
-  border-radius: 4px;
+  height: 530px;
+  width: 300px;
+  align-items: stretch;
 }
 
 .threeJsRender {
   height: 530px;
+  width: 300px;
   background-color: #f0f0f0;
-  display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: center;
-  border-radius: 4px;
 }
 
 .title {
   display: flex;
-  align-items: center;
+  align-items: end;
   justify-content: center;
+  padding: 1rem 0;
   margin-top: 4rem 0;
 }

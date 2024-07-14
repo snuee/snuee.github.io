@@ -51,7 +51,7 @@ function RenderingSample({ video, glb, title }: RenderingItem) {
       <div className="row">
         <div className="col col--2" />
         <div className={clsx("col col--4", styles.videoContainer)}>
-        <video width="350" height="530" controls>
+        <video width="320" height="530" controls>
             <source src={video} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
