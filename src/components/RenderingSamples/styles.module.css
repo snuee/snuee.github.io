@@ -1,0 +1,38 @@
+.features {
+  padding: 4rem 0;
+}
+
+.videoContainer, .threeJsContainer {
+  flex: 1;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 530px;
+  max-width: 50%;
+}
+
+.videoContainer {
+  justify-content: flex-end;
+}
+
+.threeJsContainer {
+  justify-content: flex-start;
+}
+
+
+.threeJsRender {
+  height: 530px;
+  max-width: 320px;
+  background-color: var(--threejs-container-bg);
+}
+
+[data-theme='dark'] .threeJsRender {
+  background-color: var(--threejs-container-bg);
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+}
